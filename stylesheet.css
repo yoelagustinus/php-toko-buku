@@ -1,0 +1,200 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins";
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://image.freepik.com/free-photo/front-view-pile-books-with-copy-space_23-2148255858.jpg);
+  background-size: cover;
+  color: #000;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+.btn-wrapper {
+  text-align: center;
+  margin: 20px 0;
+  size: 500px;
+}
+
+.btn-wrapper input {
+  height: 50px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+  height: 50px;
+}
+
+
+
+.btn {
+  color: #fff;
+  padding: 12px 24px;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+    color:#fff;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 124px;
+  margin-top: 20px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  margin-right: -25px;
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-right a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.book-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.login-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: left;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+  text-align: center;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.book {
+  float: left;
+  width: 25%;
+}
+
+.book-icon {
+  position: relative;
+  float: left;
+}
+
+.book-icon img{
+  width: 200px;
+  height: 250px;
+  margin-top: 30px;
+}
+
+.Nama_Buku{
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 10px;
+  color: #000000;
+}
+
+.txt-contents {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 12px;
+  color: #000000;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+

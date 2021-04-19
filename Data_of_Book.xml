@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<data>
+  <book>
+    <ID>1</ID>
+    <Nama_Buku>Algoritma &amp; Pemrograman Menggunakan Java</Nama_Buku>
+    <Penulis>Abdul Kadir</Penulis>
+    <Penerbit>ANDI Yogyakarta</Penerbit>
+    <Rating>4.5</Rating>
+    <Jumlah_Halaman>288 halaman</Jumlah_Halaman>
+    <Harga>71900</Harga>
+    <Sinopsis>Buku yang sangat berguna bagi  Anda yang sedang mempelajari Algoritma dan Java, &#xD;
+		Menggunakan bahasa yang sederharna dan mudah dipahami.</Sinopsis>
+    <Kategori>Edukasi</Kategori>
+  </book>
+  <book>
+    <ID>2</ID>
+    <Nama_Buku>Kalkulus Edisi Kedelapan Jilid I</Nama_Buku>
+    <Penulis>Varger Purcel Rigdon</Penulis>
+    <Penerbit>Erlangga</Penerbit>
+    <Rating>4</Rating>
+    <Jumlah_Halaman>457 halaman</Jumlah_Halaman>
+    <Harga>270000</Harga>
+    <Sinopsis>Kalkulus jilid I adalah buku yang     &#xD;
+		ditujukan untuk para mahasiswa dari setiap jurusan yang ada di Fakultas MIPA, Teknik, atau bahkan Ekonomi di setiap perguruan tinggi. &#xD;
+		Para mahasiswa ini selalu membutuhkan pemahaman dasar akan kalkulus yang ak</Sinopsis>
+    <Kategori>Edukasi</Kategori>
+  </book>
+  <book>
+    <ID>3</ID>
+    <Nama_Buku>Kamus Bisnis Dan Kewirausahaan</Nama_Buku>
+    <Penulis>Pipin Asropudin</Penulis>
+    <Penerbit>CV Titian Ilmu</Penerbit>
+    <Rating>3.5</Rating>
+    <Jumlah_Halaman>120 halaman</Jumlah_Halaman>
+    <Harga>35000</Harga>
+    <Sinopsis>Buku yang berjudul Kamus bisnis dan   &#xD;
+		Kewirausahaan, berbicara tentang istilah dalam dunia bisnis, baik yang sering kita dengar maupun yang tidak pernah kita dengar. &#xD;
+		Buku yang ditulis oleh Pipin Asropudin dapat dimiliki oleh siapapun yang ingin me</Sinopsis>
+    <Kategori>Kamus</Kategori>
+  </book>
+  <book>
+    <ID>4</ID>
+    <Nama_Buku>TESAURUS plus Indonesia-Inggris</Nama_Buku>
+    <Penulis>Aris Mansur Makmur</Penulis>
+    <Penerbit>Pt Mizan Publika</Penerbit>
+    <Rating>3.7</Rating>
+    <Jumlah_Halaman>540 halaman</Jumlah_Halaman>
+    <Harga>115000</Harga>
+    <Sinopsis>Walau bukan berlatar belakang  &#xD;
+		pendidikan Bahasa,  Ia mampu menulis buku ini. Menurut saya hal ini merupakan suatu yang unik dan secara pribadi Saya memberikan acungan &#xD;
+		&#x201C;dua jempol&#x201D;  padanya. Berkat keuletannya selama sepuluh tahun menyusun buku in</Sinopsis>
+    <Kategori>Kamus</Kategori>
+  </book>
+  <book>
+    <ID>5</ID>
+    <Nama_Buku>One Piece</Nama_Buku>
+    <Penulis>Eiichiro Oda</Penulis>
+    <Penerbit>PT Elex Media Komputindo</Penerbit>
+    <Rating>4</Rating>
+    <Jumlah_Halaman>182 halaman</Jumlah_Halaman>
+    <Harga>70000</Harga>
+    <Sinopsis>Komik ini menceritakan seorang bajak laut amatiran  &#xD;
+		bernama Luffy yang ingin mencari sebuah harta karun legendaris dengan mencari anggota yang lain agar ikut bergabung. &#xD;
+		Tetapi mereka semua harus menghadapi banyak rintangan selama di lautan karena </Sinopsis>
+    <Kategori>Komik</Kategori>
+  </book>
+  <book>
+    <ID>6</ID>
+    <Nama_Buku>Naruto Vol 72</Nama_Buku>
+    <Penulis>Mashashi Kishimoto</Penulis>
+    <Penerbit>PT Elex Media Komputindo</Penerbit>
+    <Rating>4.1</Rating>
+    <Jumlah_Halaman>193 halaman</Jumlah_Halaman>
+    <Harga>48500</Harga>
+    <Sinopsis>Sebagai Ninja muda, Uzumaki Naruto &#xD;
+		memiliki kebiasaan unik untuk membuat kerusakan dan menjadi pengacau terbesar di Akademi Ninja Shinobi di desa Konohagakure. Dia adalah orang buangan &#xD;
+		karena ada sesuatu yang khusus tentang dia. Ketika ia masih ba</Sinopsis>
+    <Kategori>Komik</Kategori>
+  </book>
+  <book>
+    <ID>7</ID>
+    <Nama_Buku>Membuat Kue Bolu Buah dan Sayur</Nama_Buku>
+    <Penulis>Anti Aprilyanti Suganti</Penulis>
+    <Penerbit>Penebar Plus</Penerbit>
+    <Rating>5</Rating>
+    <Jumlah_Halaman>132 halaman</Jumlah_Halaman>
+    <Harga>25000</Harga>
+    <Sinopsis>Kue bolu merupakan salah satu makanan &#xD;
+		yang digemari banyak orang. Namun, kue bolu yang ditemui masih masih menggunakan bahan-bahan yang kurang menyehatkan sehingga bisa membua badan gemuk. &#xD;
+		Kombinasi bahan kue dari bahan buah dan sayuran paut anda </Sinopsis>
+    <Kategori>Majalah</Kategori>
+  </book>
+  <book>
+    <ID>8</ID>
+    <Nama_Buku>Motor Trend Indonesia Four Door Miracles</Nama_Buku>
+    <Penulis>Azman Osman</Penulis>
+    <Penerbit>Source Interlink Media</Penerbit>
+    <Rating>3.1</Rating>
+    <Jumlah_Halaman>118 halaman</Jumlah_Halaman>
+    <Harga>85000</Harga>
+    <Sinopsis>Buku ini menjelaskan berbagai &#xD;
+		macam hal tentang mobil yang terdiri dari trend-trend mobil yang sedang hits, lalu mengenai first_look, ada juga mengenai beberapa Test Drive yang &#xD;
+		dilakukan, dan model SUV Trend.</Sinopsis>
+    <Kategori>Majalah</Kategori>
+  </book>
+  <book>
+    <ID>9</ID>
+    <Nama_Buku>Paper Towns</Nama_Buku>
+    <Penulis>John Green</Penulis>
+    <Penerbit>Gramedia</Penerbit>
+    <Rating>2.5</Rating>
+    <Jumlah_Halaman>360 halaman</Jumlah_Halaman>
+    <Harga>51000</Harga>
+    <Sinopsis>Margo Roth Spiegelman dan Quentin Jacobsen bersahabat saat &#xD;
+		masih berumur sembilan tahun dulu&#x2014;dikarenakan orangtua mereka bersahabat dan rumah mereka bersebelahan, terkadang mereka juga sering main bersama.&#xD;
+		Margo memang menyukai misteri. Bahkan saat</Sinopsis>
+    <Kategori>Novel</Kategori>
+  </book>
+  <book>
+    <ID>10</ID>
+    <Nama_Buku>The Maze Runner</Nama_Buku>
+    <Penulis>James Dashner</Penulis>
+    <Penerbit>Mizan Fantasi</Penerbit>
+    <Rating>4.8</Rating>
+    <Jumlah_Halaman>477 halaman</Jumlah_Halaman>
+    <Harga>25000</Harga>
+    <Sinopsis>Thomas, seorang anak cerdas yang dikirim ke Glade sama &#xD;
+		seperti anak-anak lelaki lainnya. Meski menggunakan sudut pandang orang ketiga, rasanya James terlalu Thomas-sentris, maklum karena &#xD;
+		tokoh yang diplot sebagai pemeran utama adalah Thomas. Thoma</Sinopsis>
+    <Kategori>Novel</Kategori>
+  </book>
+  <book>
+    <ID>12</ID>
+    <Nama_Buku>Sistem Operasi</Nama_Buku>
+    <Penulis>Roy</Penulis>
+    <Penerbit>Gramed</Penerbit>
+    <Rating>5</Rating>
+    <Jumlah_Halaman>600 halaman</Jumlah_Halaman>
+    <Harga>250000</Harga>
+    <Sinopsis>Buku ini tentang SO pada komputer</Sinopsis>
+    <Kategori>Edukasi</Kategori>
+  </book>
+  <book>
+    <ID>14</ID>
+    <Nama_Buku></Nama_Buku>
+    <Penulis></Penulis>
+    <Penerbit></Penerbit>
+    <Rating>0</Rating>
+    <Jumlah_Halaman></Jumlah_Halaman>
+    <Harga>0</Harga>
+    <Sinopsis></Sinopsis>
+    <Kategori></Kategori>
+  </book>
+  <book>
+    <ID>15</ID>
+    <Nama_Buku></Nama_Buku>
+    <Penulis></Penulis>
+    <Penerbit></Penerbit>
+    <Rating>0</Rating>
+    <Jumlah_Halaman></Jumlah_Halaman>
+    <Harga>0</Harga>
+    <Sinopsis></Sinopsis>
+    <Kategori></Kategori>
+  </book>
+</data>
