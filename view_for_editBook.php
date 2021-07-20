@@ -93,7 +93,7 @@
 
             <h3>Form For Edit Price Book</h3>
         <?php
-            echo "<form action='#' method='POST'>
+            echo "<form action='' method='POST'>
                 Nama Buku:<input type='text' name='Nama_Buku' id='Nama_Buku' value = '$getBuku[1]' required>  <br>      
                 Harga:<input type='text' name='Harga' id='Harga'  value = '$getBuku[6]' required><br>
                 Rating: <input type='text' name='rating' id='rating' value='$getBuku[4]' required> <br>
